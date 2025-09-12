@@ -47,4 +47,12 @@ The user login details are:
 
 The details on running checks, building APIs and additional details on documentation for development can be found in READMEs inside each of the API folders.
 
-http://localhost/booking/swagger-ui/index.html
+### Local URLs
+
+[web](http://localhost)
+[booking api openapi def](http://localhost:3000/booking/swagger-ui/index.html)
+[room api openapi def](http://localhost:3001/room/swagger-ui/index.html)
+[branding api openapi def](http://localhost:3002/branding/swagger-ui/index.html)
+[auth api openapi def](http://localhost:3004/auth/swagger-ui/index.html)
+[report api openapi def](http://localhost:3005/report/swagger-ui/index.html)
+[message api openapi def](http://localhost:3006/message/swagger-ui/index.html)
